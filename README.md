@@ -1,2 +1,2 @@
-# curr-culo
+# CV
 Meu currículo em HTML
